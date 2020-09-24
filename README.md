@@ -8,6 +8,7 @@ This pack works in versions 1.14 and beyond (including snapshots and pre-release
 
 <br>
 credits:
+
 <br>
 Mojang, 
 especially jeb, notch, junkboy, Johan A, Ninni L, BombBoy, Martin J, and Markus K 
@@ -15,8 +16,10 @@ especially jeb, notch, junkboy, Johan A, Ninni L, BombBoy, Martin J, and Markus 
 
 <br>
 additional credits: 
+
 <br>
 Swunglepord862 - for bug reporting, suggestions, and unending support. 
 PhysicsE - for coming up with some great ideas. 
+
 <br>
 Everyone who supports the pack - Thanks so much. 
