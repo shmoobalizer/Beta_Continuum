@@ -13,7 +13,7 @@ credits:
 <br>
 <br>
 Mojang, 
-especially jeb, notch, junkboy, Johan A, Ninni L, BombBoy, Martin J, and Markus K 
+especially jeb, notch, junkboy, Johan A, Ninni L, BombBoy, Martin J, and Markus K <br>
  - for the original textures. 
 
 <br>
