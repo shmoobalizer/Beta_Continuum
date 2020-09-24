@@ -22,7 +22,7 @@ additional credits:
 
 <br>
 <br>
-Swunglepord862 - for bug reporting, suggestions, and unending support. 
+Swunglepord862 - for bug reporting, suggestions, and unending support. <br>
 PhysicsE - for coming up with some great ideas. 
 
 <br>
