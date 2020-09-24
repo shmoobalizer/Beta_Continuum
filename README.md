@@ -4,7 +4,6 @@ Returns the classic feel to Minecraft :D
 <b>(this pack must be used over top of the "[Developer Art+](https://github.com/shmoobalizer/developer_art_plus/)" pack if you wish to use it in versions after 1.13.2)</b>
 
 <br>
-<br>
 This pack works in versions 1.14 and beyond (including snapshots and pre-releases), 
 
 <br>
