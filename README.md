@@ -1,12 +1,9 @@
 # DevArt Classic
 Returns the classic feel to Minecraft :D
 
-<b>(this pack must be used over top of the "[Developer Art+](https://github.com/shmoobalizer/developer_art_plus/)" pack if you wish to use it in versions after 1.13.2)</b>
+This pack is designed for version 1.18.2, 
+with some support for snapshots and other 1.18.x versions. 
 
-<br>
-This pack works in versions 1.14 and beyond (including snapshots and pre-releases), and includes 1.12 support
-
-<br>
 <br>
 credits:
 
@@ -14,16 +11,39 @@ credits:
 <br>
 Mojang, 
 especially jeb, notch, junkboy, Johan A, Ninni L, BombBoy, Martin J, and Markus K <br>
- - for the original textures. 
+ - for the original textures. <br>
+Sencie - atmosphere (optifine) <br>
+ - https://www.planetminecraft.com/texture-pack/old-lighting-amp-old-water/ <br>
+jack.wyl - minecon drowned overlay recreation. bugfixing <br>
+Crackers0106 - help with soulsoil and raw copper block <br>
+fayer3 - improved cloud shader <br>
+unprofessional_pack_maker - dripleaf <br>
+InfiniteVoid - tulips <br>
+VitaMoonshadow - boat items
 
 <br>
 <br>
-additional credits: 
+HONOURABLE MENTIONS:
 
 <br>
 <br>
-Swunglepord862 - for bug reporting, suggestions, and unending support. <br>
-PhysicsE - for coming up with some great ideas. 
+Swunglepord862 <br>
+ - for bug reporting, suggestions, and lots of support. <br>
+PoeticRainbow <br>
+ - Inspiration, brainstorming, and competition. <br>
+Bainill0 <br>
+ - Inspiration and helpful criticism. <br>
+co2_ <br>
+ - Helpful criticism and testing. <br>
+Guardian1502 <br>
+ - Inspiration. <br>
+Godlander <br>
+ - Shader education <br>
+Slicedlime <br>
+ - For thoroughly documenting texture changes between versions. <br>
+ <br>
+Everyone who's ever written a bug report or made a suggestion; 
+and you, for supporting the pack. 
 
 <br>
 <br>
