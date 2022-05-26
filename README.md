@@ -12,8 +12,7 @@ jack.wyl - minecon drowned overlay recreation. bugfixing <br>
 Crackers0106 - help with soulsoil and raw copper block <br>
 fayer3 - improved cloud shader <br>
 unprofessional_pack_maker - dripleaf <br>
-InfiniteVoid - tulips <br>
-VitaMoonshadow - boat items
+InfiniteVoid - tulips  
 
 **HONOURABLE MENTIONS:**
 
