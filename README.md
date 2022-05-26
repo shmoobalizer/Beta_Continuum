@@ -1,7 +1,7 @@
 # DevArt Classic
 Returns the classic feel to Minecraft :D
 
-CREDITS:
+**CREDITS:**
 
 Mojang, 
 especially jeb, notch, junkboy, Johan A, Ninni L, BombBoy, Martin J, and Markus K <br>
@@ -15,7 +15,7 @@ unprofessional_pack_maker - dripleaf <br>
 InfiniteVoid - tulips <br>
 VitaMoonshadow - boat items
 
-HONOURABLE MENTIONS:
+**HONOURABLE MENTIONS:**
 
 Swunglepord862 <br>
  \- for bug reporting, suggestions, and lots of support. <br>
