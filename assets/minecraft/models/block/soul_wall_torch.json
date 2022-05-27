@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_torch_wall",
+  "textures": {
+    "torch": "minecraft:block/soul_torch",
+    "side": "minecraft:block/soul_torch_side",
+    "side2": "minecraft:block/soul_torch_side2"
+  }
+}

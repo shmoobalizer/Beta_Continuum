@@ -1,0 +1,21 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "#chest",
+		"chest": "#chest"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [12, 11, 16, 15], "texture": "#chest"},
+				"east": {"uv": [8, 11, 12, 15], "texture": "#chest"},
+				"south": {"uv": [0, 11, 4, 15], "texture": "#chest"},
+				"west": {"uv": [8, 11, 12, 15], "texture": "#chest"},
+				"up": {"uv": [4, 11, 8, 15], "rotation": 180, "texture": "#chest"},
+				"down": {"uv": [4, 11, 8, 15], "rotation": 180, "texture": "#chest"}
+			}
+		}
+	]
+}

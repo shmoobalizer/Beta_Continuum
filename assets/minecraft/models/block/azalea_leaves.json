@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves_untinted",
+  "textures": {
+    "all": "minecraft:block/azalea_leaves"
+  }
+}

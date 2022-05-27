@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable_vertical_with_bottom",
+    "textures": {
+        "front": "block/dropper_front_vertical",
+        "side": "block/furnace_side",
+		"bottom": "block/furnace_top"
+    }
+}
