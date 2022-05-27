@@ -13,7 +13,6 @@ Crackers0106 - help with soulsoil and raw copper block
 fayer3 - improved cloud shader 
 unprofessional_pack_maker - dripleaf 
 InfiniteVoid - tulips 
-VitaMoonshadow - boat items
 
 HONOURABLE MENTIONS: 
 
