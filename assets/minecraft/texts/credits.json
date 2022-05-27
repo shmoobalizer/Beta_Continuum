@@ -1,0 +1,770 @@
+[
+    {
+        "section": "Minecraft Team",
+        "titles": [
+            {
+                "title": "Original Creator",
+                "names": [
+                    "Markus Persson"
+                ]
+            },
+            {
+                "title": "Chief Creative Officer",
+                "names": [
+                    "Jens Bergensten"
+                ]
+            },
+            {
+                "title": "Executive Producer",
+                "names": [
+                    "Sara Jansson Bach"
+                ]
+            },
+            {
+                "title": "Producers",
+                "names": [
+                    "Adrian Östergård",
+                    "Dejan Dimic",
+                    "Isabella Arningsmark",
+                    "Marcus Bodin",
+                    "Marie Stålkrantz"
+                ]
+            },
+            {
+                "title": "Associate Producers",
+                "names": [
+                    "Anna Lundgren",
+                    "Sara Lidberg"
+                ]
+            },
+            {
+                "title": "Technical Director",
+                "names": [
+                    "Nathan Adams"
+                ]
+            },
+            {
+                "title": "Tech Leads",
+                "names": [
+                    "Mikael Hedberg",
+                    "Sebastian Hindefelt"
+                ]
+            },
+            {
+                "title": "Game Developers",
+                "names": [
+                    "Agnes Larsson",
+                    "Alexander Sandor",
+                    "Alexander Torstling",
+                    "Alexander Östman",
+                    "Bartosz Bok",
+                    "Billy Sjöberg",
+                    "Bjarni Gudmundsson",
+                    "Brandon Pearce",
+                    "Cory Scheviak",
+                    "David Dalström",
+                    "Erik Broes",
+                    "Felix Jones",
+                    "Georgii Gavrichev",
+                    "Henning Erlandsen",
+                    "Henrik Kniberg",
+                    "Joachim Larsson",
+                    "Johannes Busch",
+                    "Josh Letellier",
+                    "Kristoffer Kobosko",
+                    "Maria Lemón",
+                    "Matthew Gatland",
+                    "Michael Stoyke",
+                    "Niclas Unnervik",
+                    "Nilay Karaoglu",
+                    "Nir Vaknin",
+                    "Pouya Ashraf",
+                    "Sina Tamanna",
+                    "Thomas Guimbretière"
+                ]
+            },
+            {
+                "title": "Quality Assurance",
+                "names": [
+                    "Paul Coada",
+                    "Thommy Siverman Mörk",
+                    "Zackarias Gustavsson"
+                ]
+            },
+            {
+                "title": "Launcher Tech Lead",
+                "names": [
+                    "Márcio Oliveira"
+                ]
+            },
+            {
+                "title": "Launcher Developers",
+                "names": [
+                    "Linus Cumselius",
+                    "Marc Neander",
+                    "Mikael Malmqvist",
+                    "Petr Mrázek"
+                ]
+            },
+            {
+                "title": "Launcher User Experience Designer",
+                "names": [
+                    "Lucas Morales"
+                ]
+            },
+            {
+                "title": "Realms Senior Product Manager",
+                "names": [
+                    "Fredrik Telenius"
+                ]
+            },
+            {
+                "title": "Realms Product Manager",
+                "names": [
+                    "Kevin Katona"
+                ]
+            },
+            {
+                "title": "Realms Tech Lead",
+                "names": [
+                    "Lawrence Sanchez"
+                ]
+            },
+            {
+                "title": "Realms Developers",
+                "names": [
+                    "Brian Threvathan",
+                    "Cullen Waters",
+                    "Lawrence Sanchez",
+                    "Nathan Sosnovske",
+                    "Nicolas Suc"
+                ]
+            },
+            {
+                "title": "Minecraft Content Lead",
+                "names": [
+                    "Matthew Dryden"
+                ]
+            },
+            {
+                "title": "Minecraft Content Coordinator",
+                "names": [
+                    "Adam Martinsson",
+                    "Oskar Thysell",
+                    "Sara Lempiäinen"
+                ]
+            },
+            {
+                "title": "Art Directors",
+                "names": [
+                    "Johan Aronsson",
+                    "Markus Toivonen",
+                    "Martin Johansson",
+                    "Ninni Landin"
+                ]
+            },
+            {
+                "title": "Graphics Artists",
+                "names": [
+                    "Chi Wong",
+                    "Jasper Boerstra",
+                    "Mattis Grahm"
+                ]
+            },
+            {
+                "title": "User Experience Design",
+                "names": [
+                    "Josefine Lindqvist",
+                    "Lily Ekman",
+                    "Oscar Nilsson"
+                ]
+            },
+            {
+                "title": "Lead User Experience Developers",
+                "names": [
+                    "Paulo Ragonha"
+                ]
+            },
+            {
+                "title": "User Experience Developers",
+                "names": [
+                    "Albin Odervall",
+                    "Anna Päärni",
+                    "Dario Vodopivec",
+                    "Emelie Sidesiö",
+                    "Emil Hedemalm",
+                    "Kirill Mikhel",
+                    "Marlon Huber-Smith",
+                    "Michael Novén",
+                    "Oleg Kozitsyn",
+                    "Oskar Carlbaum",
+                    "Oskar Pedersen",
+                    "Richard Pihlcrantz"
+                ]
+            },
+            {
+                "title": "Sound Director",
+                "names": [
+                    "Samuel Åberg"
+                ]
+            },
+            {
+                "title": "Sound Design",
+                "names": [
+                    "Daniel Rosenfeld",
+                    "Kevin Martinez",
+                    "Peter Hont"
+                ]
+            },
+            {
+                "title": "Music composed by",
+                "names": [
+                    "Daniel Rosenfeld",
+                    "Lena Raine"
+                ]
+            },
+            {
+                "title": "Writing",
+                "names": [
+                    "Julian Gough"
+                ]
+            },
+            {
+                "title": "Developers of Mo’ Creatures",
+                "names": [
+                    "Dan Roque",
+                    "John Olarte (DrZhark)",
+                    "Kent Christian Jensen"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Mojang",
+        "titles": [
+            {
+                "title": "Chief Executive Officer",
+                "names": [
+                    "Jonas Mårtensson"
+                ]
+            },
+            {
+                "title": "Chief Operations Officer",
+                "names": [
+                    "Ulrika Höjgård"
+                ]
+            },
+            {
+                "title": "Chief Technology Officer",
+                "names": [
+                    "Mike Carlson"
+                ]
+            },
+            {
+                "title": "Chief Brand Officer",
+                "names": [
+                    "Lydia Winters"
+                ]
+            },
+            {
+                "title": "Chief Content Officer",
+                "names": [
+                    "Vu Bui"
+                ]
+            },
+            {
+                "title": "Human Resources",
+                "names": [
+                    "Maja Samuelsson",
+                    "Viktoria Petersson"
+                ]
+            },
+            {
+                "title": "Director of Finance",
+                "names": [
+                    "Marina Kostesic"
+                ]
+            },
+            {
+                "title": "Director of New Games",
+                "names": [
+                    "Patrick Liu"
+                ]
+            },
+            {
+                "title": "Game Director",
+                "names": [
+                    "Måns Olson"
+                ]
+            },
+            {
+                "title": "Game Designers",
+                "names": [
+                    "Christian Berg",
+                    "Max Herngren"
+                ]
+            },
+            {
+                "title": "Lead Game Developers",
+                "names": [
+                    "Kristoffer Jelbring",
+                    "Niklas Börestam"
+                ]
+            },
+            {
+                "title": "Game Developers",
+                "names": [
+                    "Adrian Toncean",
+                    "Anton Arbring",
+                    "Aron Nieminen",
+                    "Christan Berg",
+                    "Daniel Wustenhoff",
+                    "Jakob Rydén",
+                    "Jon Maiga",
+                    "Mårten Helander",
+                    "Tomas Alaeus"
+                ]
+            },
+            {
+                "title": "Art Leads",
+                "names": [
+                    "Daniel Björkefors",
+                    "Telemachus Stavropoulos"
+                ]
+            },
+            {
+                "title": "Graphic Designers",
+                "names": [
+                    "Wiktor Persson",
+                    "Markus Karlsson"
+                ]
+            },
+            {
+                "title": "3D/VFX",
+                "names": [
+                    "Christian Nordgren",
+                    "Jakob Gavelli"
+                ]
+            },
+            {
+                "title": "Lead System Engineers",
+                "names": [
+                    "Jifeng Zhang",
+                    "Robert Sjödahl",
+                    "Torbjörn Allard"
+                ]
+            },
+            {
+                "title": "System Developers",
+                "names": [
+                    "Alexandre Pretto Nunes",
+                    "Anders Martini",
+                    "Maksim Ivanov",
+                    "Maria Katsourani",
+                    "Mikael Malmqvist",
+                    "Joakim Ejenstam",
+                    "Jonas Bergström",
+                    "Petter Gisslen",
+                    "Pär Axelsson",
+                    "Stefan Torstensson",
+                    "Wenlan Yang"
+                ]
+            },
+            {
+                "title": "Experience Design",
+                "names": [
+                    "Daniel Feldt"
+                ]
+            },
+            {
+                "title": "Director of Business Development",
+                "names": [
+                    "Patrick Geuder"
+                ]
+            },
+            {
+                "title": "Production Director",
+                "names": [
+                    "Olof Carlson Sandvik"
+                ]
+            },
+            {
+                "title": "Head of Creative Production",
+                "names": [
+                    "Sheila Ho"
+                ]
+            },
+            {
+                "title": "Production Manager",
+                "names": [
+                    "Klas Hammarström"
+                ]
+            },
+            {
+                "title": "Producers",
+                "names": [
+                    "Adele Major",
+                    "David Nisshagen",
+                    "Hampus Nilsson",
+                    "Johannes Fridd",
+                    "Kaya Hatcher",
+                    "Lisa Kempe",
+                    "Moira Ingeltun",
+                    "Nicolette Suraga",
+                    "Sarah Carton",
+                    "Sebastian Falk",
+                    "Åsa Skogström"
+                ]
+            },
+            {
+                "title": "Associate Producers",
+                "names": [
+                    "Marc Watson"
+                ]
+            },
+            {
+                "title": "Project Managers",
+                "names": [
+                    "Isabella Balk"
+                ]
+            },
+            {
+                "title": "Director of Creative Communications",
+                "names": [
+                    "Owen Jones"
+                ]
+            },
+            {
+                "title": "Head of Marketing Communications",
+                "names": [
+                    "Thomas Wiborgh"
+                ]
+            },
+            {
+                "title": "Creative Communications Assistant",
+                "names": [
+                    "Per Landin",
+                    "Tom Stone"
+                ]
+            },
+            {
+                "title": "Head of Community Relations",
+                "names": [
+                    "Karim Walldén"
+                ]
+            },
+            {
+                "title": "Community Relations Coordinator",
+                "names": [
+                    "Josefin Olsson"
+                ]
+            },
+            {
+                "title": "Head of Social Media",
+                "names": [
+                    "Alice Löfgren"
+                ]
+            },
+            {
+                "title": "Customer Support Team Lead",
+                "names": [
+                    "Mattias Victorin"
+                ]
+            },
+            {
+                "title": "Customer Support",
+                "names": [
+                    "Andreas Thomasson",
+                    "Antonia Kousathana",
+                    "Cecilia Flumé",
+                    "Cim Borg",
+                    "David Stuart Dahlgren",
+                    "Ellie Ashrafi",
+                    "Fredrik Sandström",
+                    "Freja Fors",
+                    "Jonny Hair",
+                    "Nasim Derakhshan",
+                    "Nima Tolouifar",
+                    "Patrik Södergren",
+                    "Rui Ribeiro",
+                    "Sarah Mårtensson"
+                ]
+            },
+            {
+                "title": "Office Manager",
+                "names": [
+                    "Siri Hoel Andersson"
+                ]
+            },
+            {
+                "title": "Office Coordinators",
+                "names": [
+                    "Aleksandra Zajac",
+                    "Joël Älveroth"
+                ]
+            },
+            {
+                "title": "Reception Manager",
+                "names": [
+                    "Chaimae Truving"
+                ]
+            },
+            {
+                "title": "Financial Accountant",
+                "names": [
+                    "Josefina Axelsson"
+                ]
+            },
+            {
+                "title": "IT Wizards",
+                "names": [
+                    "Cesar Sima Falck",
+                    "Shoghi Cervantes"
+                ]
+            },
+            {
+                "title": "Product Designer Team Lead",
+                "names": [
+                    "Amanda Ström"
+                ]
+            },
+            {
+                "title": "Product Designers",
+                "names": [
+                    "Filip Thoms",
+                    "Jennifer Hammervald",
+                    "Sherin Kwan"
+                ]
+            },
+            {
+                "title": "Motion Graphics Designer",
+                "names": [
+                    "Kim Petersen"
+                ]
+            },
+            {
+                "title": "Intellectual Property Enforcement Team Lead",
+                "names": [
+                    "Olle Personne"
+                ]
+            },
+            {
+                "title": "Intellectual Property Enforcement Agents",
+                "names": [
+                    "Mathias Andersson",
+                    "Matilda Åkerman",
+                    "Marcus Forss",
+                    "Sylvia Chen",
+                    "Johan Hedlund"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Mojang Alumni",
+        "titles": [
+            {
+                "title": "Chief Executive Officers",
+                "names": [
+                    "Carl Manneh"
+                ]
+            },
+            {
+                "title": "Chief Finance Officer",
+                "names": [
+                    "Karin Severinson"
+                ]
+            },
+            {
+                "title": "Chief Technology Officer",
+                "names": [
+                    "Rikard Herlitz"
+                ]
+            },
+            {
+                "title": "Project Directors",
+                "names": [
+                    "Jakob Porsér"
+                ]
+            },
+            {
+                "title": "Production Director",
+                "names": [
+                    "Daniel Kaplan"
+                ]
+            },
+            {
+                "title": "Game Director",
+                "names": [
+                    "Henrik Pettersson"
+                ]
+            },
+            {
+                "title": "Assistant Producers",
+                "names": [
+                    "Warren Loo"
+                ]
+            },
+            {
+                "title": "Game Developers",
+                "names": [
+                    "Christian Westman",
+                    "Daniel Frisk",
+                    "Isaac de la Vega",
+                    "Jakob Pogulis",
+                    "Johan Bernhardsson",
+                    "Magnus Bentling",
+                    "Markus Arvidsson",
+                    "Nathan Gilbert",
+                    "Ryan Holtz",
+                    "Tobias Möllstam"
+                ]
+            },
+            {
+                "title": "3D/VFX",
+                "names": [
+                    "Elin Ölund Forsling"
+                ]
+            },
+            {
+                "title": "User Experience Design Director",
+                "names": [
+                    "Tobias Ahlin"
+                ]
+            },
+            {
+                "title": "Additional Programming",
+                "names": [
+                    "Elliot 'Hippoplatimus' Segal",
+                    "Paul Spooner",
+                    "Ryan 'Scaevolus' Hitchman"
+                ]
+            },
+            {
+                "title": "Lead System Engineers",
+                "names": [
+                    "Tom Miles",
+                    "Tomas Sommar"
+                ]
+            },
+            {
+                "title": "System Developers",
+                "names": [
+                    "Christoffer Hammarström",
+                    "Leonard Gram",
+                    "Martin Odhelius"
+                ]
+            },
+            {
+                "title": "Realms Developers",
+                "names": [
+                    "Amir Moulavi",
+                    "David Marby",
+                    "Erik Bylund",
+                    "Johnny Sjöö",
+                    "Magnus Jäderberg",
+                    "Mats Henricson",
+                    "Philip Vieira"
+                ]
+            },
+            {
+                "title": "Graphics Artists",
+                "names": [
+                    "Kristoffer Zetterstrand",
+                    "Poi Poi Chen"
+                ]
+            },
+            {
+                "title": "Head of Social Media",
+                "names": [
+                    "Amelia Dale"
+                ]
+            },
+            {
+                "title": "Merchandise Art Director",
+                "names": [
+                    "Alexis Holmqvist"
+                ]
+            },
+            {
+                "title": "Additional Graphics",
+                "names": [
+                    "Jonatan Pöljö",
+                    "Mariana Graham Ramirez"
+                ]
+            },
+            {
+                "title": "Creative Communications Manager",
+                "names": [
+                    "Martin Davies"
+                ]
+            },
+            {
+                "title": "Creative Communications Assistant",
+                "names": [
+                    "Emily Richardson"
+                ]
+            },
+            {
+                "title": "Business Intelligence",
+                "names": [
+                    "Brynjólfur Erlingsson"
+                ]
+            },
+            {
+                "title": "Customer Support",
+                "names": [
+                    "Amelia Lindroth Henriksson",
+                    "Ana Barata Martins",
+                    "Andreas Andersson",
+                    "Andreas Jörgensen",
+                    "Angehlica Walling",
+                    "Annika Tripke-Lund",
+                    "Anton Albiin",
+                    "Carl Johnsson",
+                    "Dante Stjernberg",
+                    "David Carlsson",
+                    "Elin Frykholm",
+                    "Eliza Hearsum",
+                    "Erik Nordberg",
+                    "Fredrik Henriksson",
+                    "Henrik Davallius",
+                    "Henry Shi",
+                    "Joe Liu",
+                    "Kevin Vesterlund",
+                    "Mike Till",
+                    "Nicole Jansson",
+                    "Rabi Hadad",
+                    "Robert Miskiewicz",
+                    "Robin Cocks",
+                    "Robin Thunström",
+                    "Theodor Colbing"
+                ]
+            },
+            {
+                "title": "Office Managers",
+                "names": [
+                    "Alex Andersson",
+                    "Charlotte Wredesjö",
+                    "Jill Curran",
+                    "Linn Hultman",
+                    "Mikaela Prim"
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Special Thanks",
+        "titles": [
+            {
+                "title": "",
+                "names": [
+                    "Daniel Brynolf",
+                    "Pontus Hammarberg",
+                    "",
+                    ""
+                ]
+            }
+        ]
+    }
+]

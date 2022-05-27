@@ -1,0 +1,11 @@
+{
+     "providers": [
+         {
+            "type": "bitmap",
+            "file": "minecraft:font/button3.png",
+            "height": 20,
+            "ascent": 13,
+            "chars": ["\ue778"]
+        }
+	]
+}
