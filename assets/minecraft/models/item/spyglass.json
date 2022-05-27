@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/spyglass"
+	},
+	"display": {
+		"head": {
+			"rotation": [-45, 90, 0],
+			"translation": [0, 0, -16]
+		}
+	}
+}
