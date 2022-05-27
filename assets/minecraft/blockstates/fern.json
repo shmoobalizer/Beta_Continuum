@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/fern" },
+			{ "model": "block/fern_cold" },
+			{ "model": "block/fern_warm" }
+		]
+    }
+}

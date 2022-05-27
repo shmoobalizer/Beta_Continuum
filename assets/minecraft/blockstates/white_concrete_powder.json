@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/white_concrete_powder"
+      }
+    ]
+  }
+}
