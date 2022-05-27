@@ -1,0 +1,65 @@
+{
+	"textureSize": [16, 16],
+	"models": [
+		{
+			"part": "base_left",
+			"id": "base_left",
+			"invertAxis": "xy",
+			"translate": [-7, -10, 19],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-9, -10, 3, 16, 16, 16],
+					"uvNorth": [12, 11, 16, 15],
+					"uvEast": [8, 11, 12, 15],
+					"uvSouth": [0, 11, 4, 15],
+					"uvWest": [8, 11, 12, 15],
+					"uvUp": [4, 11, 8, 15],
+					"uvDown": [4, 11, 8, 15]
+				}
+			]
+		},
+		{
+			"part": "base_right",
+			"id": "base_right",
+			"invertAxis": "xy",
+			"translate": [-7, -10, 19],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-9, -10, 3, 16, 16, 16],
+					"uvNorth": [12, 11, 16, 15],
+					"uvEast": [8, 11, 12, 15],
+					"uvSouth": [0, 11, 4, 15],
+					"uvWest": [8, 11, 12, 15],
+					"uvUp": [4, 11, 8, 15],
+					"uvDown": [4, 11, 8, 15]
+				}
+			]
+		},
+		{
+			"part": "lid_left",
+			"id": "lid_left",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "lid_right",
+			"id": "lid_right",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "knob_left",
+			"id": "knob_left",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "knob_right",
+			"id": "knob_right",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		}
+	]
+}

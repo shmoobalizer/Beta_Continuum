@@ -1,0 +1,35 @@
+{
+	"textureSize": [16, 16],
+	"models": [
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [-7, -10, 19],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-9, -10, 3, 16, 16, 16],
+					"uvNorth": [11, 11, 15, 15],
+					"uvEast": [7, 11, 11, 15],
+					"uvSouth": [7, 11, 11, 15],
+					"uvWest": [7, 11, 11, 15],
+					"uvUp": [3, 11, 7, 15],
+					"uvDown": [3, 11, 7, 15]
+				}
+			]
+		},
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "knob",
+			"id": "knob",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		}
+	]
+}
