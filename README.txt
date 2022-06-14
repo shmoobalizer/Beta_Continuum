@@ -8,7 +8,7 @@ especially jeb, notch, junkboy, Johan A, Ninni L, BombBoy, Martin J, and Markus 
 
 Sencie - atmosphere (optifine) 
  - https://www.planetminecraft.com/texture-pack/old-lighting-amp-old-water/ 
-jack.wyl - minecon drowned overlay recreation. bugfixing 
+jack.wyl - minecon drowned overlay recreation. beacon model. bugfixing 
 Crackers0106 - help with soulsoil and raw copper block 
 fayer3 - improved cloud shader 
 unprofessional_pack_maker - dripleaf 
