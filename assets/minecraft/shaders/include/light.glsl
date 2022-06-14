@@ -35,36 +35,36 @@ vec4 minecraft_sample_lightmap(sampler2D lightMap, ivec2 uv) {
 
     const float nightshade = 0.1255;
 
-    vec2 mapZero2 = texelFetch(lightMap, ivec2(0), 0).rg;
-    if (texelFetch(lightMap, ivec2(6, 0), 0).r > texelFetch(lightMap, ivec2(6, 0), 0).b || 
-      ( mapZero2 == texelFetch(lightMap, ivec2(0, 15), 0).rg && mapZero2.g > mapZero2.r )) {
+    vec3 mapZero = texelFetch(lightMap, ivec2(0), 0).rgb;
+    /*if (texelFetch(lightMap, ivec2(6, 0), 0).r > texelFetch(lightMap, ivec2(6, 0), 0).b || 
+      ( mapZero.rg == texelFetch(lightMap, ivec2(0, 15), 0).rg && mapZero.g > mapZero.r )) {*/
         // if vanilla
 
         float blocklight = BLOCKLIGHT[uv.x >> 4];
         float daylightPer = (texelFetch(lightMap, ivec2(0, 15), 0).b - 0.2784) / 0.7098;
-        float lightValBase = 1 - (1 - blocklight) * (1 - mix(nightshade,DAYLIGHT[uv.y >> 4],daylightPer));
+        float lightValBase = 1 - (1 - max(blocklight + mapZero.r - 0.0549,0.0)) * (1 - mix(nightshade,DAYLIGHT[uv.y >> 4],daylightPer));
         lightVal = vec4(lightValBase,lightValBase,lightValBase,1);
 
-        if (mapZero2.g > mapZero2.r) { // end
+        if (mapZero.g > mapZero.r) { // end
             lightVal = vec4(
-                1 - (1 - blocklight) * (1 - (0.2275 + texelFetch(lightMap, ivec2(0, 0), 0).r - 0.2392)),
-                1 - (1 - blocklight) * (1 - (0.2824 + texelFetch(lightMap, ivec2(0, 0), 0).g - 0.2980)),
-                1 - (1 - blocklight) * (1 - (0.2549 + texelFetch(lightMap, ivec2(0, 0), 0).b - 0.2705)),
+                1 - (1 - blocklight) * (1 - (0.2275 + mapZero.r - 0.2392)),
+                1 - (1 - blocklight) * (1 - (0.2824 + mapZero.g - 0.2980)),
+                1 - (1 - blocklight) * (1 - (0.2549 + mapZero.b - 0.2705)),
                 1
             );
-        } if (mapZero2.r > mapZero2.g) { // nether
+        } if (mapZero.r > mapZero.g) { // nether
 
             //float netherMin = 0.0706;
             float netherMin = 0.12;
 
             lightVal = vec4(
-                1 - (1 - blocklight) * (1 - (netherMin + texelFetch(lightMap, ivec2(0, 0), 0).r - 0.2824)),
-                1 - (1 - blocklight) * (1 - (netherMin + texelFetch(lightMap, ivec2(0, 0), 0).g - 0.2392)),
-                1 - (1 - blocklight) * (1 - (netherMin + texelFetch(lightMap, ivec2(0, 0), 0).b - 0.2039)),
+                1 - (1 - blocklight) * (1 - (netherMin + mapZero.r - 0.2824)),
+                1 - (1 - blocklight) * (1 - (netherMin + mapZero.g - 0.2392)),
+                1 - (1 - blocklight) * (1 - (netherMin + mapZero.b - 0.2039)),
                 1
             );
         }
-    }
+    //}
     
     return lightVal;
 }
