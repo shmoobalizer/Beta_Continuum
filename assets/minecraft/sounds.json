@@ -1,4 +1,48 @@
 {
+  "block.basalt.break": { "replace": "true",
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.basalt.fall": { "replace": "true",
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4"
+    ]
+  },
+  "block.basalt.hit": { "replace": "true",
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.basalt.place": { "replace": "true",
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.basalt.step": { "replace": "true",
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
   "block.mud.break": { "replace": "true",
     "sounds": [
       "dig/gravel1",
