@@ -10,12 +10,14 @@ in ivec2 UV1;
 in ivec2 UV2;
 in vec3 Normal;
 
+uniform sampler2D Sampler0;
 uniform sampler2D Sampler1;
 uniform sampler2D Sampler2;
 
 uniform mat4 ModelViewMat;
 uniform mat4 ProjMat;
 uniform mat3 IViewRotMat;
+uniform float FogStart;
 uniform int FogShape;
 
 uniform vec3 Light0_Direction;
@@ -28,6 +30,8 @@ out vec4 overlayColor;
 out vec2 texCoord0;
 out vec4 normal;
 
+const vec2[4] corners = vec2[4](vec2(-1, 1), vec2(-1, -1), vec2(1, -1), vec2(1, 1));
+
 bool fleeceColHex (vec3 inVal, int target, float del) {
 	// written by shmoobalizer
 	if (distance(toHsv(inVal), 
@@ -39,7 +43,10 @@ bool fleeceColHex (vec3 inVal, int target, float del) {
 }
 
 void main() {
-    gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+    //gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+	
+	vertexColor = vec4(0);
+    #moj_import <flat_item.glsl>
 
     vertexDistance = fog_distance(ModelViewMat, IViewRotMat * Position, FogShape);
     
