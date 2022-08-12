@@ -13,6 +13,8 @@ Crackers0106 - help with soulsoil and raw copper block
 fayer3 - improved cloud shader 
 unprofessional_pack_maker - dripleaf 
 InfiniteVoid - tulips 
+DartCat25 - 2D item
+ - https://github.com/DartCat25/resourcepacks/tree/main/2d%20items
 
 HONOURABLE MENTIONS: 
 
