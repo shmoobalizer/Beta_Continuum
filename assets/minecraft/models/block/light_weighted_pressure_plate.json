@@ -1,6 +1,0 @@
-{
-    "parent": "block/pressure_plate_up",
-    "textures": {
-        "texture": "block/light_weighted_pressure_plate"
-    }
-}

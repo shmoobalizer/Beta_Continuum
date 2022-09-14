@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_torch_wall",
-  "textures": {
-    "torch": "minecraft:block/redstone_torch",
-    "side": "minecraft:block/redstone_torch_side",
-    "side2": "minecraft:block/redstone_torch_side2"
-  }
-}
